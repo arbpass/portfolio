@@ -345,7 +345,7 @@ body.dark-theme {
 }
 
 .projects_title {
-  font-size: var(--h3-font-size);
+  font-size: var(--h5-font-size);
   margin-bottom: .75rem;
 }
 
